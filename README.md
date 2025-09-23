@@ -12,23 +12,24 @@
 ### Github
 - Go to the GitHub website. Once you're on the site create a GitHub account. After creating an account, you can see a lot of things on GitHub. The first thing you can do is create repositories, which are used to store code. Another thing you can do is cloning your repsitories', which provide a replication of your code. You can also commit which just saves your work and provides the history of changes made throughout your code. The great thing about GitHub is that it allows potential employers to see your projects. A video will be provided which will provide an in depth tutorial of GitHub.
 ### Webstorm
-- Assuming you have downloaded WebStorm, there are many things that you can do. You can create a repsoitory on WebStorm or you can import a repository from GitHub. Another thing that you can do is create a WebStorm file, where you can write HTMl code. A great feature is that you can add files to Git on WebStrom. You can also commit changes which saves your work and provides a history of changes made on your file. Most of the features mentioned are similar to GitHub. There are more features, but they are very advanced for beginners. 
+- Assuming you have downloaded WebStorm, there are many things that you can do. You can create a repository on WebStorm, or you can import a repository from GitHub. Another thing that you can do is create a WebStorm file, where you can write HTML code. A great feature is that you can add files to Git on WebStorm. You can also commit changes which save your work and provide a history of changes made on your file. Most of the features mentioned are similar to GitHub. There are more features, but they are very advanced for beginners. 
 
 ## Glossary
-- **Branch**
-- **Clone**
-- **Commit**
-- **Fetch**
-- **GIT**
-- **Github**
-- **Merge**
-- **Merge Conflict**
-- **Push**
-- **Pull**
-- **Remote**
-- **Repository**
+- **Branch**: a separate separate workspace where changes can be made without affecting the main project.
+- **Clone**: is a copy of your original repository.
+- **Commit**: a snapshot of your project when changes are being made.
+- **Fetch**: retreives updates from a remote repository.
+- **GIT**: is a version control system that track changes in files.
+- **Github**: cloud-based platform where you can store, share, and work with others to write code.
+- **Merge**: combining the changes from one branch into another.
+- **Merge Conflict**: when merge branches that have competing commits
+- **Push**: updates the remote branch with local commits.
+- **Pull**: used to fetch and integrate and changes which are present in the remote repository to to local repository.
+- **Remote**: place where code is stored.
+- **Repository**: place where you can store code and files.
 
 ## Refrences
 JetBrains: https://www.jetbrains.com/
 Git: https://git-scm.com/downloads
 GitHub: https://github.com/
+Git and GitHub tutorial video: https://www.youtube.com/watch?v=tRZGeaHPoaw
